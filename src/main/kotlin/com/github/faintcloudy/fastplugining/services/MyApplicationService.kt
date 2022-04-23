@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.faintcloudy.fastplugining.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.faintcloudy.fastplugining.MyBundle
 
 class MyApplicationService {
 
